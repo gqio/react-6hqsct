@@ -5,10 +5,6 @@ import MaterialDatepicker from 'https://webcomponents.dev/web_modules/0a2xaEAioI
 
 
 
-
-
-
-
 class App extends Component {
   constructor() {
     super();
